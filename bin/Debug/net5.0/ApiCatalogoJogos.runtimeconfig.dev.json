@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GAVETEIRO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GAVETEIRO\\.nuget\\packages"
+    ]
+  }
+}
